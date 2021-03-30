@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **akshayawate2012@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/AkshayAwate](linkedin.com/AkshayAwate)
+- 📄 Know about my experiences [https://www.linkedin.com/in/akshay-awate-ba5a83131/](https://www.linkedin.com/in/akshay-awate-ba5a83131/)
 
 
 <h3 align="left">Languages and Tools:</h3>
