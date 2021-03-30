@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/AkshayAwate007](github.com/AkshayAwate007)
 
-- 💬 Ask me about **Docker, Kubernetes, Prometheus, Grafana, Helm, AWS**
+- 💬 Ask me about **Docker, Kubernetes, Prometheus, Grafana, Helm, AWS , ELK** 
 
 - 📫 How to reach me **akshayawate2012@gmail.com**
 
