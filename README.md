@@ -15,5 +15,6 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AkshayAwate&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayAwate&layout=compact&theme=vue">
-</a> 
-(https://github-readme-streak-stats.herokuapp.com/?user=AkshayAwate&theme=dark)](https://git.io/streak-stats)
+</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkshayAwate&theme=dark)](https://git.io/streak-stats)
