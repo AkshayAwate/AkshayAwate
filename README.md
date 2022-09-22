@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Awate from India</h1>
+![](https://visitor-badge.glitch.me/badge?page_id=AkshayAwate)
 <h3 align="center">A Devops practioner, having experience in startups focused on Devops tools, principles.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AkshayAwate](https://github.com/AkshayAwate)
