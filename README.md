@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/akshay-awate-ba5a83131/](https://www.linkedin.com/in/akshay-awate-ba5a83131/)
 
-Certifications:
+**Certifications:**
 
 
 ![CKA](https://user-images.githubusercontent.com/32165684/196040051-e98a5913-0a26-44db-8106-21c173a4c623.jpg)
