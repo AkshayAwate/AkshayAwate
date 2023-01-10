@@ -1,4 +1,4 @@
-<h2> 𝓗𝓲 👋, 𝓘'𝓶 𝓐𝓴𝓼𝓱𝓪𝔂 𝓐𝔀𝓪𝓽𝓮! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> 𝘈𝘬𝘴𝘩𝘢𝘺 𝘈𝘸𝘢𝘵𝘦 👋, <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Software Enginner @ <a href="https://www.infracloud.io/">Infracloud</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
