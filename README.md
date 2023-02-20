@@ -8,4 +8,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=AkshayAwate)
 
 - 💼 <em> I am working as Software Engineer @<a href="https://www.infracloud.io/">Infracloud</a>. </em>
-- 💞️ <em> I’m looking to collaborate on K8s, Go. </em>
+- 🤝 <em> I’m looking to collaborate on K8s, Go. </em>
+
+
+OSS contributions:
+1. https://github.com/SigNoz/signoz/pull/1410
+
+Issue's discussion/solutions:
+1. https://github.com/grafana/grafana/issues/63358
