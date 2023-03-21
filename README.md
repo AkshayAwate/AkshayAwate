@@ -14,6 +14,7 @@
 1. https://github.com/SigNoz/signoz/pull/1410
 2. https://github.com/grafana/phlare/pull/566
 3. https://github.com/featurehub-io/featurehub-go-sdk/pull/19
+4. https://github.com/inqueryio/inquery/pull/25
 
 **Issue's discussion/solutions:**
 1. https://github.com/grafana/grafana/issues/63358
