@@ -7,6 +7,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=AkshayAwate)
 
 - 💼 <em> I am working as Software Engineer @<a href="https://www.infracloud.io/">Infracloud</a>. </em>
+- 🎓 <em> I am CKA, CKS, PCA certified.
 - 🤝 <em> I’m looking to collaborate on K8s, Go. </em>
 
 **OSS contributions:**
