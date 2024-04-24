@@ -8,7 +8,7 @@
 
 - 💼 <em> I am working as Software Engineer @<a href="https://www.cisco.com/site/in/en/index.html">Cisco</a>
 - 🎓 <em> I am CKA, CKS, PCA certified.
-- 🤝 <em> I’m looking to collaborate on K8s, Go. </em>
+- 🤝 <em> I’m looking to collaborate on OpenTelemetry, Python3. </em>
 
 **OSS contributions:**
 1. https://github.com/SigNoz/signoz/pull/1410
