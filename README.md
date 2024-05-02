@@ -6,7 +6,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AkshayAwate)
 
-- 💼 <em> I am working as Software Engineer @ Genpact and Cisco</a>
+- 💼 <em> I am working as Software Engineer @ Genpact </a>
 - 🎓 <em> I am CKA, CKS, PCA certified.
 - 🤝 <em> I’m looking to collaborate on OpenTelemetry, Python3. </em>
 
