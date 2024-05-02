@@ -1,12 +1,12 @@
 <h2> 𝘈𝘬𝘴𝘩𝘢𝘺 𝘈𝘸𝘢𝘵𝘦 👋, <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner @ <a href="https://www.cisco.com/site/in/en/index.html">Cisco</a>
+<p><em>Software Enginner @ <a href="https://www.cisco.com/site/in/en/index.html"> Genpact </a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </em></p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AkshayAwate)
 
-- 💼 <em> I am working as Software Engineer @<a href="https://www.cisco.com/site/in/en/index.html">Genpact and Cisco</a>
+- 💼 <em> I am working as Software Engineer @ Genpact and Cisco</a>
 - 🎓 <em> I am CKA, CKS, PCA certified.
 - 🤝 <em> I’m looking to collaborate on OpenTelemetry, Python3. </em>
 
